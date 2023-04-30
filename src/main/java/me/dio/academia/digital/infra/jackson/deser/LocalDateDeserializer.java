@@ -9,7 +9,7 @@ import java.io.IOException;
 import java.time.LocalDate;
 
 /**
- * @author Venilton Falvo Jr
+ * @author Valter Bonfim 
  */
 public class LocalDateDeserializer extends StdDeserializer<LocalDate> {
 

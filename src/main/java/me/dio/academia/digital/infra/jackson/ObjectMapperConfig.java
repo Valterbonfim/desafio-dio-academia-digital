@@ -13,7 +13,7 @@ import java.time.LocalDate;
 import java.time.LocalDateTime;
 
 /**
- * @author Venilton Falvo Jr
+ * @author Valter Bonfim 
  */
 @Configuration
 public class ObjectMapperConfig implements Jackson2ObjectMapperBuilderCustomizer {
